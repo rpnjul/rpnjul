@@ -6,5 +6,5 @@ Hi, I'm Satria Aprilian - a software engineer based in Jakarta. I spend most of 
 - 💻 **Currently:** Frontend Developer at **Otospector** (Next.js, React Native, TypeScript, TailwindCSS). I'm also actively exploring technical SEO and Answer Engine Optimization (AEO) to improve modern web architectures.
 - 🔭 **Previously:** Shipped scalable features at **[Hitztar](https://www.hitztar.com/satria)** using PHP, Node.js, and React.
 - 🌱 **Learning:** Go (expanding the backend toolkit).
-- 🤝 **Available for:** Freelance projects or interesting tech chats. Drop an [email](mailto:hello@satria.me).
+- 🤝 **Available for:** Freelance projects or interesting tech chats. Drop an [email](mailto:hello@satria.dev).
 - 🌐 **Portfolio:** [satria.dev](https://www.satria.dev/)
